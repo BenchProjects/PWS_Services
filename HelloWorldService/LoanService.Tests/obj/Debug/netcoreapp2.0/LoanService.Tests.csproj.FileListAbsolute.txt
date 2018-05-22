@@ -1,0 +1,14 @@
+C:\Users\beermonster\source\docker\Service\Service\HelloWorldService\LoanService.Tests\bin\Debug\netcoreapp2.0\LoanService.Tests.deps.json
+C:\Users\beermonster\source\docker\Service\Service\HelloWorldService\LoanService.Tests\bin\Debug\netcoreapp2.0\LoanService.Tests.dll
+C:\Users\beermonster\source\docker\Service\Service\HelloWorldService\LoanService.Tests\obj\Debug\netcoreapp2.0\LoanService.Tests.csproj.CoreCompileInputs.cache
+C:\Users\beermonster\source\docker\Service\Service\HelloWorldService\LoanService.Tests\obj\Debug\netcoreapp2.0\LoanService.Tests.AssemblyInfoInputs.cache
+C:\Users\beermonster\source\docker\Service\Service\HelloWorldService\LoanService.Tests\obj\Debug\netcoreapp2.0\LoanService.Tests.AssemblyInfo.cs
+C:\Users\beermonster\source\docker\Service\Service\HelloWorldService\LoanService.Tests\obj\Debug\netcoreapp2.0\LoanService.Tests.csprojAssemblyReference.cache
+C:\Users\beermonster\source\docker\Service\Service\HelloWorldService\LoanService.Tests\bin\Debug\netcoreapp2.0\LoanService.Tests.runtimeconfig.json
+C:\Users\beermonster\source\docker\Service\Service\HelloWorldService\LoanService.Tests\bin\Debug\netcoreapp2.0\LoanService.Tests.runtimeconfig.dev.json
+C:\Users\beermonster\source\docker\Service\Service\HelloWorldService\LoanService.Tests\bin\Debug\netcoreapp2.0\LoanService.Tests.pdb
+C:\Users\beermonster\source\docker\Service\Service\HelloWorldService\LoanService.Tests\obj\Debug\netcoreapp2.0\LoanService.Tests.dll
+C:\Users\beermonster\source\docker\Service\Service\HelloWorldService\LoanService.Tests\obj\Debug\netcoreapp2.0\LoanService.Tests.pdb
+C:\Users\beermonster\source\docker\Service\Service\HelloWorldService\LoanService.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\beermonster\source\docker\Service\Service\HelloWorldService\LoanService.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\beermonster\source\docker\Service\Service\HelloWorldService\LoanService.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll

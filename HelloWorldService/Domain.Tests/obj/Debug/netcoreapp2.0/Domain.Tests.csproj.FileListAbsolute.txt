@@ -1,0 +1,17 @@
+C:\Users\beermonster\source\docker\Service\Service\HelloWorldService\Domain.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\beermonster\source\docker\Service\Service\HelloWorldService\Domain.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\beermonster\source\docker\Service\Service\HelloWorldService\Domain.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\beermonster\source\docker\Service\Service\HelloWorldService\Domain.Tests\bin\Debug\netcoreapp2.0\Domain.Tests.deps.json
+C:\Users\beermonster\source\docker\Service\Service\HelloWorldService\Domain.Tests\bin\Debug\netcoreapp2.0\Domain.Tests.runtimeconfig.json
+C:\Users\beermonster\source\docker\Service\Service\HelloWorldService\Domain.Tests\bin\Debug\netcoreapp2.0\Domain.Tests.runtimeconfig.dev.json
+C:\Users\beermonster\source\docker\Service\Service\HelloWorldService\Domain.Tests\bin\Debug\netcoreapp2.0\Domain.Tests.dll
+C:\Users\beermonster\source\docker\Service\Service\HelloWorldService\Domain.Tests\bin\Debug\netcoreapp2.0\Domain.Tests.pdb
+C:\Users\beermonster\source\docker\Service\Service\HelloWorldService\Domain.Tests\bin\Debug\netcoreapp2.0\Domain.dll
+C:\Users\beermonster\source\docker\Service\Service\HelloWorldService\Domain.Tests\bin\Debug\netcoreapp2.0\Domain.pdb
+C:\Users\beermonster\source\docker\Service\Service\HelloWorldService\Domain.Tests\obj\Debug\netcoreapp2.0\Domain.Tests.csprojAssemblyReference.cache
+C:\Users\beermonster\source\docker\Service\Service\HelloWorldService\Domain.Tests\obj\Debug\netcoreapp2.0\Domain.Tests.csproj.CoreCompileInputs.cache
+C:\Users\beermonster\source\docker\Service\Service\HelloWorldService\Domain.Tests\obj\Debug\netcoreapp2.0\Domain.Tests.AssemblyInfoInputs.cache
+C:\Users\beermonster\source\docker\Service\Service\HelloWorldService\Domain.Tests\obj\Debug\netcoreapp2.0\Domain.Tests.AssemblyInfo.cs
+C:\Users\beermonster\source\docker\Service\Service\HelloWorldService\Domain.Tests\obj\Debug\netcoreapp2.0\Domain.Tests.csproj.CopyComplete
+C:\Users\beermonster\source\docker\Service\Service\HelloWorldService\Domain.Tests\obj\Debug\netcoreapp2.0\Domain.Tests.dll
+C:\Users\beermonster\source\docker\Service\Service\HelloWorldService\Domain.Tests\obj\Debug\netcoreapp2.0\Domain.Tests.pdb

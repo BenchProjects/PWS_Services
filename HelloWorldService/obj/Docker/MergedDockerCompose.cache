@@ -1,0 +1,11 @@
+services:
+  helloworldservice:
+    build:
+      context: C:\Users\beermonster\source\docker\Service\Service\HelloWorldService
+      dockerfile: Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: helloworldservice
+    ports:
+    - target: 80
+version: '3.4'

@@ -1,0 +1,1 @@
+C:\Users\beermonster\source\docker\Service\Service\HelloWorldService\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
